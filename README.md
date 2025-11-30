@@ -1,2 +1,26 @@
+<<<<<<< HEAD
 # level_2_project
 First Python 2025 introductory projects level 2
+=======
+# Level_2_project
+
+<img src="./Images/banner1.png" alt="logo">
+
+
+# Welcome to My level_2_project
+This repository contains the code and resources for my Level 2 project. This project focuses on further exercises to continue the Patton programming path, focusing on greater mastery for the trainee, and is part of my training at the Pytopia Institute for Python programming.
+
+
+<img src="./Images/banner 2.png" alt="logo" width="400">
+
+## level 2
+- Youtub Downloder 
+
+
+
+
+Get Started
+Clone the repo to your local machine: git clone https://github.com/emadleo13/level_2_project.git
+
+
+>>>>>>> 83c82e0 (level 2 projects starrted)
