@@ -8,8 +8,8 @@ This repository contains the code and resources for my Level 2 project. This pro
 
 <img src="./Images/banner 2.png" alt="logo" width="400">
 
-## level 2
-- Youtub Downloder 
+## level 2 
+- Currency Convertor Project
 
 Get Started
 Clone the repo to your local machine: git clone https://github.com/emadleo13/level_2_project.git
